@@ -11,6 +11,7 @@
 		F7DC0AE02A07A275007F6715 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7DC0ADF2A07A275007F6715 /* ContentView.swift */; };
 		F7DC0AE22A07A278007F6715 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F7DC0AE12A07A278007F6715 /* Assets.xcassets */; };
 		F7DC0AE52A07A278007F6715 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F7DC0AE42A07A278007F6715 /* Preview Assets.xcassets */; };
+		F7DC0AEC2A07A452007F6715 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7DC0AEB2A07A452007F6715 /* SettingsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		F7DC0ADF2A07A275007F6715 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		F7DC0AE12A07A278007F6715 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F7DC0AE42A07A278007F6715 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		F7DC0AEB2A07A452007F6715 /* SettingsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SettingsView.swift; path = "../../../../Downloads/Present and Dismiss Transition/Present and Dismiss Transition/SettingsView.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				F7DC0ADD2A07A275007F6715 /* PopUpAnimationApp.swift */,
 				F7DC0ADF2A07A275007F6715 /* ContentView.swift */,
+				F7DC0AEB2A07A452007F6715 /* SettingsView.swift */,
 				F7DC0AE12A07A278007F6715 /* Assets.xcassets */,
 				F7DC0AE32A07A278007F6715 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F7DC0AEC2A07A452007F6715 /* SettingsView.swift in Sources */,
 				F7DC0AE02A07A275007F6715 /* ContentView.swift in Sources */,
 				F7DC0ADE2A07A275007F6715 /* PopUpAnimationApp.swift in Sources */,
 			);
